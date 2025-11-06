@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
-    <img src="src/blueprint.png" alt="Project Blueprint" style="max-width:300px;">
+    <img src="src/blueprint.png" alt="Project Blueprint" style="max-width:50px;">
     <p style="text-align: center; font-weight: 700;">Comprehensive Complex Blueprint</p>
   </div>
 
