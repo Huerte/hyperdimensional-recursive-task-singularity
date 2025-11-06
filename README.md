@@ -1,18 +1,28 @@
 # Hyperdimensional Recursive Task Singularity
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div>
-    <img src="src/blueprint.png" alt="Project Blueprint" style="max-width:50px;">
-    <p style="text-align: center; font-weight: 700;">Comprehensive Complex Blueprint</p>
-  </div>
+<table>
+<tr>
 
-  <div>
-    <h3>This repo is made to practice the following:</h3>
-    <ul>
-      <li>React</li>
-      <li>FastAPI</li>
-      <li>Prisma</li>
-      <li>And more.</li>
-    </ul>
-  </div>
-</div>
+<td style="vertical-align:top; padding-right: 20px;">
+
+![Project Blueprint](src/blueprint.png)
+<p style="text-align: center; font-weight: 700;">Comprehensive Complex Blueprint</p>
+
+</td>
+
+<td style="vertical-align:top; padding-left:20px;">
+
+<h3>About This Project</h3>
+<p>This repository is created to practice the following:</p>
+
+<ul>
+  <li><strong>React:</strong></li>
+  <li><strong>FastAPI:</strong></li>
+  <li><strong>Prisma:</strong></li>
+  <li>And more</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
