@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(26, 27, 29);
+    color: white;
+    font-family: 'Press Start 2P', cursive;  
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.input-container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#pokemonName {
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Press Start 2P', ccursive;
+    font-size: 0.5em;
+    width: 280px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 15px;
+    border-radius: 10px;
+    font-family: 'Press Start 2P', ccursive;
+    width: 150px;
+    font-size: 0.7em;
+    cursor: pointer;
+}
+
+button:active, #pokemonName:hover {
+    transform: scale(1.05);
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(55, 58, 60);
+    border-radius: 10px;
+    box-shadow: 3px 3px rgba(255, 255, 255, 0.262);
+    border: 3px solid rgb(73, 76, 84);
+}
